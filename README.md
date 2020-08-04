@@ -134,3 +134,18 @@ Save and Exit the file. Now run the below command on terminal to grant ownership
 ```
 $ sudo chown odoo: /etc/odoo.conf
 ```
+
+Now Start Odoo Server
+```
+$ cd ~/odoo-dev/odoo
+$ ./odoo-bin
+```
+or,
+```
+$ ~/odoo-dev/odoo/odoo-bin
+```
+
+Go to web browser to access Odoo 13
+
+http://localhost:8069
+
