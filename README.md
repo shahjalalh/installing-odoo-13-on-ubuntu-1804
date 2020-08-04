@@ -149,3 +149,8 @@ Go to web browser to access Odoo 13
 
 http://localhost:8069
 
+Now create database with necessary information
+
+<img src="./images/1-addons.png">
+
+
