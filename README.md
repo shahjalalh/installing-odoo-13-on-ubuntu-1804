@@ -178,3 +178,13 @@ $ sudo apt install pgadmin4-desktop
 Now run PgAdmin 4 from explorer
 
 <img src="./images/2-pgadmin4.png">
+
+Install Modules:
+
+```
+- Indian - Accounting
+- Inventory
+- Sales
+- Purchase
+- 
+```
