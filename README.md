@@ -185,6 +185,14 @@ Install Modules:
 - Indian - Accounting
 - Inventory
 - Sales
+- Sales Expense
 - Purchase
-- 
+- Calendar
+- Employees
+- Attendances
+- Employee Contracts
+- Time Off 
+- Dashboards
+- Contacts
+
 ```
