@@ -196,3 +196,7 @@ Install Modules:
 - Contacts
 - Odoo 13 Full Accounting Kit (https://apps.openerp.com/apps/modules/13.0/base_accounting_kit/)
 ```
+
+Odoo App Stores
+1. https://apps.openerp.com/apps
+2. https://odoo-community.org/
