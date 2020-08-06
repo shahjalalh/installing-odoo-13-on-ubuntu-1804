@@ -194,5 +194,5 @@ Install Modules:
 - Time Off 
 - Dashboards
 - Contacts
-
+- Odoo 13 Full Accounting Kit (https://apps.openerp.com/apps/modules/13.0/base_accounting_kit/)
 ```
