@@ -184,6 +184,8 @@ Install Modules:
 ```
 - Indian - Accounting
 - Inventory
+- Warehouse Management: Batch Transfer
+- Check Printing Base
 - Products Expiration Date
 - Sales
 - Sales Expense
