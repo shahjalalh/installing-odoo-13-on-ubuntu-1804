@@ -199,6 +199,27 @@ Install Modules:
 - Time Off - Calendar
 - Dashboards
 - Contacts
+- Product Availability
+- Accounting - MRP
+- Password Policy support for Signup
+- KPI Digests
+- Email Gateway
+- Generic - Accounting
+- Discuss
+- OdooBot
+- Partner Autocomplete extends Address autocomplete
+- Payment Acquirer
+- Transfer Payment Acquirer
+- Products & Pricelists
+- Resource
+- Sale Purchase
+- Sales and Warehouse Management
+- Sales Teams
+- SMS gateway
+- Stock - SMS
+- Units of measure
+- UTM Trackers
+- Phone Numbers Validation
 - Odoo 13 Full Accounting Kit (https://apps.openerp.com/apps/modules/13.0/base_accounting_kit/)
 ```
 
